@@ -1,4 +1,4 @@
-# pruebatecnica-apí
+# pruebatecnica-api
 Prueba técnica API -  Consumer Satisfaction v .1.1 
 
 ### Pre-requisitos para ejecutar el App
