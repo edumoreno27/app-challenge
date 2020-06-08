@@ -22,12 +22,6 @@ _1) Para crear la imagen_
 ```
 $  mvn clean package dockerfile:build
 ```
-_2) Para subir la imagen al dockerhub_
-
-```
-$  mvn clean package dockerfile:push
-```
-
 _2) Instalar y ejecutar la imagen **api**_
 
 ```
@@ -39,9 +33,9 @@ _Verificar si todo está OK_
 $  docker logs api
 ```
 ### Documentación en Swagger
-```
-$  En la documentación se puede hacer pruebas del API.
-```
+
+_En la documentación se puede hacer pruebas del API._
+
 
 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
