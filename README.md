@@ -1,5 +1,5 @@
-# app-challenge
-Customer Satisfaction App Challenge v .1.1 
+# pruebatecnica-apí
+Prueba técnica API -  Consumer Satisfaction v .1.1 
 
 ### Pre-requisitos para ejecutar el App
 
